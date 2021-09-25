@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns="http://www.w3.org/2005/Atom">
+    <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCMCnZGIOeLVO65-LBxkkHyQ"/>
+    <id>yt:channel:UCMCnZGIOeLVO65-LBxkkHyQ</id>
+    <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+    <title>Scrum Life</title>
+    <link rel="alternate" href="https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ"/>
+    <author>
+        <name>Scrum Life</name>
+        <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+    </author>
+    <published>2015-08-21T14:58:21+00:00</published>
+    <entry>
+        <id>yt:video:DCh5G5u--4E</id>
+        <yt:videoId>DCh5G5u--4E</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Definition Of Done : Scrum Life donne ses astuces pour une meilleure DoD !</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=DCh5G5u--4E"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-09-23T11:00:12+00:00</published>
+        <updated>2021-09-23T11:16:15+00:00</updated>
+        <media:group>
+            <media:title>Definition Of Done : Scrum Life donne ses astuces pour une meilleure DoD !</media:title>
+            <media:content url="https://www.youtube.com/v/DCh5G5u--4E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/DCh5G5u--4E/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/anqglw
+Comment avoir une meilleure Definition of Done ? Scrum Life livre ses conseils et astuces avisés, qu'il s'agisse d'une nouvelle équipe ou d'une équipe qui s'encroute ! #DefinitionOfDone #DoD #Scrum
+
+📃 Lien direct vers les outils à télécharger (vous devez être connecté au préalable à la formation gratuite) 👉 https://sl.run/xnQvYV
+
+💜️ La communauté Scrum Life 👉 https://sl.run/DTVIRy
+
+DoD Kards : https://medium.com/@twallet/dod-kards-un-jeu-pour-cocr%C3%A9er-la-d%C3%A9finition-de-fini-en-%C3%A9quipe-940f31680032
+
+----------
+SOMMAIRE️
+00:00 Définition Of Done : Conseils
+00:41 Évolution
+01:48 Copier sur les autres
+02:45 Laissez-la émerger
+04:34 DOD Kards
+07:12 Lâchez du lest
+08:15 Checkup DOD
+10:28 Qui est résponsable ?
+12:03 DOD = Questions</media:description>
+            <media:community>
+                <media:starRating count="51" average="5.00" min="1" max="5"/>
+                <media:statistics views="746"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:dqABiJ4qj_Y</id>
+        <yt:videoId>dqABiJ4qj_Y</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Sprint Planning c'est quoi ? Définition par Scrum Life #ScrumGuide</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=dqABiJ4qj_Y"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-09-16T11:00:12+00:00</published>
+        <updated>2021-09-16T11:10:55+00:00</updated>
+        <media:group>
+            <media:title>Sprint Planning c'est quoi ? Définition par Scrum Life #ScrumGuide</media:title>
+            <media:content url="https://www.youtube.com/v/dqABiJ4qj_Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/dqABiJ4qj_Y/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/xiZA8a
+Qu'est-ce que le Sprint Planning ? Comment est-on sensé le faire ? Quel est le but et quelles sont les contraintes ? Voici la réponse de Scrum Life ! Sprint Planning 😍 #SprintPlanning #ScrumGuide #Definition
+
+💜️ La communauté Scrum Life 👉 https://sl.run/kOhkqR
+
+----------
+SOMMAIRE️
+00:00 Scrum : Le Sprint Planning
+00:14 Sprint Planing : Le début du sprint
+00:50 La durée du sprint planning
+01:57 Les phases du sprint planning
+02:18 Pourquoi ?
+03:38 Quoi ?
+05:59 Comment ?
+06:47 L'équipe doit y croire
+08:01 Récap des points importants</media:description>
+            <media:community>
+                <media:starRating count="84" average="5.00" min="1" max="5"/>
+                <media:statistics views="1606"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:eRLNtKwZEhY</id>
+        <yt:videoId>eRLNtKwZEhY</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Les erreurs à ne pas commettre en Sprint Review Meeting !</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=eRLNtKwZEhY"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-09-09T11:00:15+00:00</published>
+        <updated>2021-09-16T18:52:17+00:00</updated>
+        <media:group>
+            <media:title>Les erreurs à ne pas commettre en Sprint Review Meeting !</media:title>
+            <media:content url="https://www.youtube.com/v/eRLNtKwZEhY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/eRLNtKwZEhY/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/fdywIZ
+Scrum Life donne ses conseils pour mieux animer la Sprint Review ! Meeting essentiel mais souvent négligé, on n'en tire pas toute sa valeur. Et téléchargez notre checklist✅ des éléments pour faire une BONNE Sprint Review ! #SprintReview #Conseils #FormationGratuite
+
+Notre formation &quot;Devenez meilleur(e) Scrum Master&quot; que nous citons : https://sl.run/LdZN3f
+
+📃 Lien direct vers les outils à télécharger (vous devez être connecté au préalable à la formation gratuite) 👉 https://sl.run/zWhDkl
+
+💜️ La communauté Scrum Life 👉 https://sl.run/lH2sB9
+
+----------
+SOMMAIRE️
+00:00 Sprint Review : Nos conseils !
+00:20 Savoir ce qu'il va se passer
+02:38 Ne préparez pas votre review !
+06:52 Prenez le temps de la Review
+08:34 Ne faites pas de démo !
+11:19 Aider à changer le mindset
+12:18 Déroulé d'une bonne Sprint Review</media:description>
+            <media:community>
+                <media:starRating count="81" average="5.00" min="1" max="5"/>
+                <media:statistics views="1433"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:8c4iOCvDpMk</id>
+        <yt:videoId>8c4iOCvDpMk</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Product Owner : 7 CONSEILS + 1 OUTIL à télécharger ✅</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=8c4iOCvDpMk"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-09-02T11:00:10+00:00</published>
+        <updated>2021-09-11T08:10:06+00:00</updated>
+        <media:group>
+            <media:title>Product Owner : 7 CONSEILS + 1 OUTIL à télécharger ✅</media:title>
+            <media:content url="https://www.youtube.com/v/8c4iOCvDpMk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/8c4iOCvDpMk/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/LLM35s
+Voici nos conseils pour devenir meilleur(e) Product Owner ! Dont un outil à télécharger 💪 #ProductOwner #Conseils #Outils
+
+📃 Lien direct vers les outils à télécharger (vous devez être connecté au préalable à la formation gratuite) 👉 https://sl.run/wJY3rb
+
+Lien vers l'outil original par Sandeep Potdar : https://sl.run/LA1p6K
+
+💜️ La communauté Scrum Life 👉 https://sl.run/3DVC6N
+
+----------
+SOMMAIRE️
+00:00 Comment être un bon Product Owner ?
+00:27 Vous êtes dans l’équipe
+01:28 Montrez patte blanche
+03:10 Le travail du PO
+04:32 Les PO n’ont pas la solution !
+05:21 Challengez sur la valeur plutôt que la technique
+06:23 Travaillez petit</media:description>
+            <media:community>
+                <media:starRating count="83" average="5.00" min="1" max="5"/>
+                <media:statistics views="1978"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:OdX6oQn0YHI</id>
+        <yt:videoId>OdX6oQn0YHI</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>SCRUM LIFE : on répond à toutes vos questions ! LIVE FAQ de la rentrée</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=OdX6oQn0YHI"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-08-31T13:19:27+00:00</published>
+        <updated>2021-09-13T13:36:57+00:00</updated>
+        <media:group>
+            <media:title>SCRUM LIFE : on répond à toutes vos questions ! LIVE FAQ de la rentrée</media:title>
+            <media:content url="https://www.youtube.com/v/OdX6oQn0YHI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/OdX6oQn0YHI/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/fz1tzl
+Venez poser toutes vos questions sur Scrum Life lors de ce 🔴LIVE avec JP et Constantin ! Nouveautés, coulisses, infos exclusives, projets futurs... #ScrumLife #Live #FAQ
+
+💜️ La communauté Scrum Life 👉 https://sl.run/DcMOaX</media:description>
+            <media:community>
+                <media:starRating count="17" average="5.00" min="1" max="5"/>
+                <media:statistics views="422"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:IzeAhOrjAtw</id>
+        <yt:videoId>IzeAhOrjAtw</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Financement CPF !!! Les news SCRUM LIFE : 20K abonnés, Constantin, nouvelle formation Scrum Master</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=IzeAhOrjAtw"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-08-31T07:30:12+00:00</published>
+        <updated>2021-09-10T08:15:28+00:00</updated>
+        <media:group>
+            <media:title>Financement CPF !!! Les news SCRUM LIFE : 20K abonnés, Constantin, nouvelle formation Scrum Master</media:title>
+            <media:content url="https://www.youtube.com/v/IzeAhOrjAtw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/IzeAhOrjAtw/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🌀 Notre formation &quot;Devenez meilleur(e) Scrum Master&quot; certifiante et finançable par CPF 👉 https://sl.run/qisKb6
+Découvrez les gros changements de la rentrée de Scrum Life ! Le point phare c'est bien sûr notre partenariat avec Wensei (Kagilum) pour rendre notre formation certifiante et finançable par CPF. Mais ce n'est pas tout... Gros changement en perspective à propos de Constantin !!! #Formation #ScrumLife #CPF
+
+💜️ La communauté Scrum Life 👉 https://sl.run/THDgaA
+
+----------
+SOMMAIRE️
+00:00 Les actualités de la rentrée !
+00:09 20K abonnés !!!
+00:54 Constantin à 100% !
+01:16 Financement par CPF, OPCO...
+02:18 Formation certifiante - Partenariat avec Wensei
+03:11 Vous êtes maîtres de votre formation
+03:58 Le nouveau format de notre formation
+06:19 Des invités exclusifs !
+07:27 Les inscriptions sont ouvertes !
+07:48 N'hésitez pas à nous contacter !
+08:07 Inscrivez-vous avant le 13 septembre !</media:description>
+            <media:community>
+                <media:starRating count="29" average="5.00" min="1" max="5"/>
+                <media:statistics views="563"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:MQIn5TCkmZE</id>
+        <yt:videoId>MQIn5TCkmZE</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Scrum Life : Sprint Planning -- les bons conseils de JP &amp; Constantin 👌</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=MQIn5TCkmZE"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-08-26T11:00:15+00:00</published>
+        <updated>2021-09-11T04:49:27+00:00</updated>
+        <media:group>
+            <media:title>Scrum Life : Sprint Planning -- les bons conseils de JP &amp; Constantin 👌</media:title>
+            <media:content url="https://www.youtube.com/v/MQIn5TCkmZE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/MQIn5TCkmZE/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/FSOZ3p
+Découvrez nos conseils pour réussir vos Sprint Planning, les conseils de Scrum Life ! Sprint Planning, par quoi commence chaque Sprint de Scrum ! Téléchargez la checklist des éléments à faire avant de réellement démarrer le sprint 👍 #SprintPlanning #Checklist #ScrumPolice
+
+📃 Lien direct vers les outils à télécharger (vous devez être connecté au préalable à la formation gratuite) 👉 https://sl.run/eLrceu
+
+💜️ La communauté Scrum Life 👉 https://sl.run/xgW1wo
+
+----------
+SOMMAIRE️
+00:00 Nos conseils pour bien démarrer le sprint
+00:29 Partez du scrum guide
+00:49 Comment atteindre l'objectif
+02:54 Partagez les disponibilités !
+03:48 Prenez le temps de faire le planning !
+06:33 Le board doit être prêt !
+09:13 Invitez les parties prenantes !</media:description>
+            <media:community>
+                <media:starRating count="107" average="5.00" min="1" max="5"/>
+                <media:statistics views="1764"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:5uIp0AWNht8</id>
+        <yt:videoId>5uIp0AWNht8</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Combien gagne un Scrum Master ? Participez: sondage SALAIRE de Scrum Master - SALAIRE de coach agile</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=5uIp0AWNht8"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-08-19T11:00:02+00:00</published>
+        <updated>2021-08-21T16:51:02+00:00</updated>
+        <media:group>
+            <media:title>Combien gagne un Scrum Master ? Participez: sondage SALAIRE de Scrum Master - SALAIRE de coach agile</media:title>
+            <media:content url="https://www.youtube.com/v/5uIp0AWNht8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/5uIp0AWNht8/hqdefault.jpg" width="480" height="360"/>
+            <media:description>💸 Consultez ou participez à notre étude sur les salaires des Scrum Masters 👉 https://sl.run/kMJ1TH
+Quel est le salaire d'un Scrum Master ou d'un coach agile ? Participez à NOTRE GRANDE ETUDE ou INSCRIVEZ-VOUS pour être prévenu des résultats !!! #MoneyMoneyMoney #WeNeedYou #SalaireScrumMaster
+
+💜️ La communauté Scrum Life 👉 https://sl.run/aFrncr
+
+🎁 Le guide du Scrum Master compétent 👉 https://sl.run/d56jln
+
+----------
+SOMMAIRE️
+00:00 Salaires de Scrum Master : participez à l'étude !
+00:12 Inscrivez-vous !
+00:21 Participez à l'étude !
+00:45 Le livre blanc avec les résultats
+01:24 Futur épisode : comment bien négocier son salaire</media:description>
+            <media:community>
+                <media:starRating count="53" average="4.70" min="1" max="5"/>
+                <media:statistics views="1982"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:StMHU6a3wkM</id>
+        <yt:videoId>StMHU6a3wkM</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Jeux Sérieux : pourquoi ça marche ? Julia de Funes a-t-elle raison ? - Serious Game</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=StMHU6a3wkM"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-08-12T11:00:15+00:00</published>
+        <updated>2021-09-24T18:02:07+00:00</updated>
+        <media:group>
+            <media:title>Jeux Sérieux : pourquoi ça marche ? Julia de Funes a-t-elle raison ? - Serious Game</media:title>
+            <media:content url="https://www.youtube.com/v/StMHU6a3wkM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/StMHU6a3wkM/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/NYQOs2
+Les jeux sérieux sont ils une blague ? Comme le dit Julia de Funes &quot;absurdités en entreprise&quot;... Robin vous montre plutôt comment créer un serious game utile qui sert à quelque chose ! #SeriousGame #ClownAgile #JuliaDeFunes
+
+Filtre à serious games : https://sl.run/sEUIdi
+Cône de Dale :  https://sl.run/6PET77
+Conférence de Grégory Alexandre : https://sl.run/d1TUtr
+Closing deck : https://sl.run/VyBrpp
+Lien vers Agile Smells : https://sl.run/1bvOHq
+Lien vers le recueil de serious games : https://sl.run/rWZwb2
+
+Retrouvez Robin Béraud-sudreau sur son blog : https://sl.run/Y39zQG et sur Twitter : https://sl.run/fhmYzv
+
+💜️ La communauté Scrum Life 👉 https://sl.run/IurJrA
+
+----------
+SOMMAIRE️
+00:00 Créez votre jeu sérieux !
+00:52 Sachez écouter les détracteurs !
+01:40 Être actif pour un apprentissage efficace
+03:12 Comment créer son serious game ?
+03:20 Commencer par la fin
+05:07 À qui se destine votre jeu ?
+05:52 Les éléments concrets du jeu sérieux
+07:15 Tester pour améliorer</media:description>
+            <media:community>
+                <media:starRating count="61" average="4.93" min="1" max="5"/>
+                <media:statistics views="1129"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:sJyoaYJHOg4</id>
+        <yt:videoId>sJyoaYJHOg4</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Outils de coach : Cynefin, Stacey, pensée complexe #Agile #Waterfall #Toolbox</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=sJyoaYJHOg4"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-08-05T11:00:13+00:00</published>
+        <updated>2021-08-05T11:09:03+00:00</updated>
+        <media:group>
+            <media:title>Outils de coach : Cynefin, Stacey, pensée complexe #Agile #Waterfall #Toolbox</media:title>
+            <media:content url="https://www.youtube.com/v/sJyoaYJHOg4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/sJyoaYJHOg4/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/cvr6e2
+Plusieurs modèles, notamment Cynefin et Stacey, décrivent la notion de &quot;complexe&quot; et l'opposent à la notion de &quot;compliqué&quot;. Ces outils de coach agiles sont idéaux pour expliquer la différence entre Scrum / agile et la cascade / waterfall / cycle en V. Merci à Robin qui nous présente la pensée complexe ! 
+
+Monde VUCA : https://sl.run/dG87pA
+CHAOS : https://sl.run/JfoLQE
+Fichier à télécharger : https://sl.run/PzVy8H
+Cynefin : https://sl.run/IacQC5
+
+Retrouvez Robin Béraud-sudreau sur son blog : https://sl.run/vi4d4E et sur Twitter : https://sl.run/Uou09h
+
+💜️ La communauté Scrum Life 👉 https://sl.run/5tMhtt
+
+----------
+SOMMAIRE️
+00:00 Introduction à la complexité
+00:39 Évoluer dans un monde VUCA
+01:04 Le modèle de Stacey
+01:22 De la certitude à l’inconnu
+02:08 De la simplicité au chaos
+03:41 Le monde se complexifie</media:description>
+            <media:community>
+                <media:starRating count="87" average="4.77" min="1" max="5"/>
+                <media:statistics views="1290"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:0Ijy_tZKsEc</id>
+        <yt:videoId>0Ijy_tZKsEc</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Facilitation : des recettes👨‍🍳 pour terminer vos ateliers</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=0Ijy_tZKsEc"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-07-29T11:00:12+00:00</published>
+        <updated>2021-07-29T11:09:01+00:00</updated>
+        <media:group>
+            <media:title>Facilitation : des recettes👨‍🍳 pour terminer vos ateliers</media:title>
+            <media:content url="https://www.youtube.com/v/0Ijy_tZKsEc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/0Ijy_tZKsEc/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/NkJTNV
+À quoi reconnait-on une bonne facilitation d'atelier ? À ce qu'il produise des résultats, des effets durables ! Et non pas simplement qu'il en jette plein les yeux. Robin partage des outils pour faire de belles fermetures d'atelier, le moment le plus important ! #Animation # Facilitation #CookBook
+
+CLOSING COOK BOOK : https://sl.run/DU7wd8
+PLUS GENERALEMENT : https://sl.run/1639z4
+
+Retrouvez Robin Béraud-sudreau sur son blog : https://sl.run/g8E8iE et sur Twitter : https://sl.run/PlZBWh
+
+💜️ La communauté Scrum Life 👉 https://sl.run/eua3wu
+
+----------
+SOMMAIRE️
+00:00 Des recettes pour bien clôturer vos ateliers
+01:03 Le biais de l’apogée
+02:27 L'effet durable plus que l'effet waouh
+02:49 Clôture ≠ Débriefing 
+04:09 Quelques exercices de clôture
+
+----------
+CREDITS
+Remerciement à Alice Barralon pour les illustrations !</media:description>
+            <media:community>
+                <media:starRating count="83" average="4.86" min="1" max="5"/>
+                <media:statistics views="1090"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:Bn-rPXYu9KU</id>
+        <yt:videoId>Bn-rPXYu9KU</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Framework Agile : pourquoi ça marche ?</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=Bn-rPXYu9KU"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-07-22T11:00:18+00:00</published>
+        <updated>2021-07-22T11:08:42+00:00</updated>
+        <media:group>
+            <media:title>Framework Agile : pourquoi ça marche ?</media:title>
+            <media:content url="https://www.youtube.com/v/Bn-rPXYu9KU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/Bn-rPXYu9KU/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/4xrwqO
+Pourquoi un framework agile, ça marche ? Robin l'explique au travers des patterns organisationnels et vous donne même les clés pour créer votre propre cadre de travail &quot;maison&quot; ! #PatternOrganisationnel #OrganizationalPattern #FaitMaison
+
+FAST : Le FAST Guide https://sl.run/t0Vr2C
+Le fichier des 300 patterns organisationnels : https://sl.run/q4iKuU
+
+Retrouvez Robin Béraud-sudreau sur son blog : https://sl.run/hqJJaF et sur Twitter : https://sl.run/027ZtL
+
+💜️ La communauté Scrum Life 👉 https://sl.run/ZUg8HZ
+
+----------
+SOMMAIRE️
+00:00 Créer son propre framework agile
+00:31 Des frameworks aux patterns
+01:08 Un ensemble de patterns ?
+01:49 Pattern = solution réutilisable !
+02:28 Frameworks fast
+03:35 Découvrons quelques patterns
+04:30 Créons VOTRE framework agile</media:description>
+            <media:community>
+                <media:starRating count="162" average="4.98" min="1" max="5"/>
+                <media:statistics views="2097"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:AvmtWfdvYqU</id>
+        <yt:videoId>AvmtWfdvYqU</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>UN COUCOU MACHINE À CAFÉ GEORGE CLOONEY ? Innovation Games - Give Them a Hot Tub 🛀 - Atelier Agile</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=AvmtWfdvYqU"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-07-15T11:00:15+00:00</published>
+        <updated>2021-09-02T21:17:35+00:00</updated>
+        <media:group>
+            <media:title>UN COUCOU MACHINE À CAFÉ GEORGE CLOONEY ? Innovation Games - Give Them a Hot Tub 🛀 - Atelier Agile</media:title>
+            <media:content url="https://www.youtube.com/v/AvmtWfdvYqU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/AvmtWfdvYqU/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/vKvzPE
+Découvrez les Innovation Games ! Robin Béraud-sudreau démontre sa créativité en vous formant à animer l'atelier &quot;Give Them a Hot Tub&quot; 😬 Mais au fait, pourquoi est-on plus créatifs à plusieurs ? Explications avec anatomie du cerveau ! #Atelier #Innovation #Produit
+
+Lien affilié pour acheter le livre Innovation Games de Luke Hohmann : https://sl.run/5DQAGv
+Et pour aller plus loin, le documentaire &quot;Le pouvoir créatif du cerveau&quot; : https://sl.run/rkVM1I
+
+Retrouvez Robin Béraud-sudreau sur son blog : https://sl.run/kAL1Ht et sur Twitter : https://sl.run/693zQm
+
+💜️ La communauté Scrum Life 👉 https://sl.run/PWoGc8
+
+----------
+SOMMAIRE️
+00:00 Créer un produit différent avec les Innovations Games
+00:26 Innover avec les Innovations Games
+01:09 Innover à plusieurs
+01:32 Innovation &amp; anatomie
+02:37 L'innovation est collaborative
+03:25 Découvrons &quot;Give them a hot tub&quot;
+04:05 Phase 1 rédaction d'idées délirantes
+04:57 Phase 2 on échanges les idées
+05:07 Phase 3 shématiser un produit
+
+----------
+CREDITS
+Merci à Livia Simoni pour le visuel de Speed Boat https://www.linkedin.com/in/liviasimoni</media:description>
+            <media:community>
+                <media:starRating count="67" average="4.88" min="1" max="5"/>
+                <media:statistics views="922"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:GOMTGimBgXA</id>
+        <yt:videoId>GOMTGimBgXA</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>Accelerate : DevOps pour réduire les burn out ?</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=GOMTGimBgXA"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-07-08T11:00:11+00:00</published>
+        <updated>2021-09-10T15:24:41+00:00</updated>
+        <media:group>
+            <media:title>Accelerate : DevOps pour réduire les burn out ?</media:title>
+            <media:content url="https://www.youtube.com/v/GOMTGimBgXA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/GOMTGimBgXA/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/cOsqtv
+Robin Béraud-sudreau prend l'antenne de Scrum Life pour présenter le livre Accelerate: The Science Behind DevOps. Selon Accelerate, DevOps donne toutes les clés d'une organisation plus performante -- et oui, cela inclut la réduction des burn-out ! #AccelerateTheScienceBehindDevOps #DevOps #RobinSurScrumLife
+
+Lien affilié pour acheter le livre : https://sl.run/iIHfss
+La vue globale Accelerate : https://sl.run/MAJRjm
+
+Retrouvez Robin Béraud-sudreau sur son blog : https://sl.run/Gro2PH et sur Twitter : https://sl.run/P2qIbR
+
+💜️ La communauté Scrum Life 👉 https://sl.run/AkUIBU
+
+----------
+SOMMAIRE️
+00:00 Et si vous accélériez votre agilité ?
+00:39 Accelerate: The Science Behind DevOps
+01:13 Qu'est-ce que DevOps ?
+01:43 Rapidité et stabilité vont de pair
+02:20 Indicateurs à mesurer
+03:03 3 niveaux de performance
+04:06 Qu'est-ce que la &quot;performance&quot; ?
+04:37 Les leviers d'actions ou capacités (capabilities)
+06:19 L'effet papillon des corrélations</media:description>
+            <media:community>
+                <media:starRating count="153" average="4.97" min="1" max="5"/>
+                <media:statistics views="2561"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:Ztm9FipQkd0</id>
+        <yt:videoId>Ztm9FipQkd0</yt:videoId>
+        <yt:channelId>UCMCnZGIOeLVO65-LBxkkHyQ</yt:channelId>
+        <title>&quot;Développeur&quot; c'est quoi en SCRUM (2021) ? EXPERTS de la Scrum Team ! #Developer Scrum Guide 2020</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=Ztm9FipQkd0"/>
+        <author>
+            <name>Scrum Life</name>
+            <uri>https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ</uri>
+        </author>
+        <published>2021-07-06T06:30:04+00:00</published>
+        <updated>2021-07-07T07:11:47+00:00</updated>
+        <media:group>
+            <media:title>&quot;Développeur&quot; c'est quoi en SCRUM (2021) ? EXPERTS de la Scrum Team ! #Developer Scrum Guide 2020</media:title>
+            <media:content url="https://www.youtube.com/v/Ztm9FipQkd0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/Ztm9FipQkd0/hqdefault.jpg" width="480" height="360"/>
+            <media:description>🎁 Le guide du Scrum Master compétent 👉 https://sl.run/dgv7Wt
+Au cœur de l'équipe Scrum on trouve les &quot;Developers&quot;, les experts de tous horizons. Justement, quels sont les contours de cette responsabilité ? Développeur : c'est quoi en Scrum ? #Developer #ScrumTeam #ScrumGuide2020
+
+💜️ La communauté Scrum Life 👉 https://sl.run/jI1heR
+
+----------
+SOMMAIRE️
+00:00 Scrum : Les Developers
+00:21 Les 3 responsabilités de l'équipe Scrum
+01:13 Expert, développeur, codeur ?
+02:42 Il n'y a pas (plus) d'équipe de dev
+04:03 Pas de sous-équipe dans la Scrum Team
+05:09 Pluridisciplinarité
+06:06 Auto-organisation et auto-gestion
+06:59 La taille de l'équipe
+08:19 Se tenir mutuellement responsables
+09:36 Créer le Sprint Backlog
+10:51 Adapter le plan chaque jour
+11:34 La qualité</media:description>
+            <media:community>
+                <media:starRating count="50" average="5.00" min="1" max="5"/>
+                <media:statistics views="1337"/>
+            </media:community>
+        </media:group>
+    </entry>
+</feed>

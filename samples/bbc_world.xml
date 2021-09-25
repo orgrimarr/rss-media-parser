@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 25 Sep 2021 15:02:23 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Huawei executive Meng Wanzhou freed by Canada arrives home in China]]></title>
+            <description><![CDATA[Two Canadians detained by China are also freed, bringing to an end a three-year diplomatic row.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58690974?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58690974</guid>
+            <pubDate>Sat, 25 Sep 2021 14:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany elections: Merkel backs 'bridge-builder' Laschet as successor]]></title>
+            <description><![CDATA[The outgoing leader strongly endorses her party's candidate Armin Laschet in an unusually tight poll race.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58689239?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58689239</guid>
+            <pubDate>Sat, 25 Sep 2021 14:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Taliban hang bodies as warning in city of Herat, say reports]]></title>
+            <description><![CDATA[The alleged kidnappers are reportedly hung in public, a day after a warning executions would resume.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58691824?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58691824</guid>
+            <pubDate>Sat, 25 Sep 2021 14:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Inside the prison staffed by former inmates released by the Taliban]]></title>
+            <description><![CDATA[The BBC's Jeremy Bowen goes inside Kabul's main jail, where former Taliban inmates are now caretakers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58678605?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58678605</guid>
+            <pubDate>Fri, 24 Sep 2021 23:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Somalia: Seven killed in suicide attack near presidential palace]]></title>
+            <description><![CDATA[The Islamist militant group Al-Shabab has claimed responsibility for the attack in Mogadishu.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58691016?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58691016</guid>
+            <pubDate>Sat, 25 Sep 2021 12:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canary Islands: Firefighters retreat as volcano intensifies]]></title>
+            <description><![CDATA[Hundreds of homes have been destroyed and thousands displaced since the volcano erupted on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58683718?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58683718</guid>
+            <pubDate>Fri, 24 Sep 2021 16:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Music company buys NFT of 'Side-eyeing Chloe' meme]]></title>
+            <description><![CDATA[The image of two-year-old Chloe Clem making a disapproving face was auctioned in cryptocurrency.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58687070?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58687070</guid>
+            <pubDate>Sat, 25 Sep 2021 04:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One of NYC's poshest buildings facing $250m lawsuit over building defects]]></title>
+            <description><![CDATA[A posh building on NYC's Billionaire Row has been facing a series of serious woes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58683002?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58683002</guid>
+            <pubDate>Fri, 24 Sep 2021 16:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[R. Kelly trial: A look at the key moments as jury deliberates]]></title>
+            <description><![CDATA[The five-week trial heard harrowing details of abuse and assault. Here are the key moments.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58306164?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58306164</guid>
+            <pubDate>Fri, 24 Sep 2021 19:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jitender Maan Gogi: India gangster shot dead in Delhi court]]></title>
+            <description><![CDATA[Two men dressed as lawyers opened fire in court on a man police detained on charges of murder and extortion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58674452?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58674452</guid>
+            <pubDate>Fri, 24 Sep 2021 13:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attacked by a hyena: My advice for a fellow victim]]></title>
+            <description><![CDATA[Nine-year-old Rodwell Nkomazana lost an eye, his nose, and his upper lip when he was mauled by a hyena.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58678606?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58678606</guid>
+            <pubDate>Fri, 24 Sep 2021 23:19:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Actor Michael K Williams died of accidental drug overdose, coroner confirms]]></title>
+            <description><![CDATA[The actor died after overdosing on a combination of fentanyl, p-fluorofentanyl, heroin and cocaine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58684726?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58684726</guid>
+            <pubDate>Sat, 25 Sep 2021 05:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quad countries vow to work for freedom in region]]></title>
+            <description><![CDATA[The leaders of the US, Japan, India and Australia also launched a new climate initiative at the US summit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58689238?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58689238</guid>
+            <pubDate>Sat, 25 Sep 2021 06:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenyan policeman wakes up from coma to find he was sacked]]></title>
+            <description><![CDATA[Neither his family nor the police force could locate Reuben Kimutai Lel, who was actually in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58681463?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58681463</guid>
+            <pubDate>Fri, 24 Sep 2021 14:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meng Wanzhou: The PowerPoint that sparked an international row]]></title>
+            <description><![CDATA[After three years, Huawei's chief financial officer has a US extradition request against her dropped.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54270739?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-54270739</guid>
+            <pubDate>Fri, 24 Sep 2021 20:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Palma volcano: Visual guide to what happened]]></title>
+            <description><![CDATA[A series of maps and charts explaining what happened after an eruption in the Spanish Canary Islands.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58681233?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58681233</guid>
+            <pubDate>Sat, 25 Sep 2021 00:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Whisper it cautiously... there's been progress in run up to COP26]]></title>
+            <description><![CDATA[Pledges made at the UN have lifted hopes for the Glasgow summit, but some major questions remain.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58678937?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58678937</guid>
+            <pubDate>Fri, 24 Sep 2021 23:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sustainable fashion: From the red carpet to our wardrobes?]]></title>
+            <description><![CDATA[Hannah Peel wore a sustainable dress to the Mercury Awards - but is the fashion industry changing?]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58515849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58515849</guid>
+            <pubDate>Sat, 25 Sep 2021 00:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gambia's Jammeh pact bombshell: Treachery or reconciliation?]]></title>
+            <description><![CDATA[A political pact that could see the return of Gambia's exiled ex-President Jammeh proves divisive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58673378?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58673378</guid>
+            <pubDate>Sat, 25 Sep 2021 02:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haitian migrants at US border: 'We've been through 11 countries']]></title>
+            <description><![CDATA[Fiterson's hellish seven-year journey through 11 countries explains migrants' desperation at US border.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58673578?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58673578</guid>
+            <pubDate>Fri, 24 Sep 2021 04:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gabby Petito case: The missing Americans you don't hear about]]></title>
+            <description><![CDATA[Keen public interest in the Gabby Petito case has renewed the urgency of other missing person cases.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58669582?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58669582</guid>
+            <pubDate>Fri, 24 Sep 2021 02:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins On… Germany’s election explained]]></title>
+            <description><![CDATA[Ros Atkins explains how Germany’s election works, the candidates and the issues at stake.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58677991?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58677991</guid>
+            <pubDate>Fri, 24 Sep 2021 23:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Switzerland to hold referendum on same-sex marriage]]></title>
+            <description><![CDATA[Voters in Switzerland go to the polls this Sunday to decide whether to allow same-sex marriage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58658515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58658515</guid>
+            <pubDate>Fri, 24 Sep 2021 23:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
+            <description><![CDATA[The BBC finds stranded migrants facing sub-zero temperatures amid a row between Poland and Belarus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
+            <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands remain at Haitian migrant camp in Texas]]></title>
+            <description><![CDATA[Local officials have struggled to provide food and sanitation to the Haitian migrants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58671207?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58671207</guid>
+            <pubDate>Thu, 23 Sep 2021 17:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angela Merkel: What will Germans miss about the chancellor?]]></title>
+            <description><![CDATA[BBC Europe editor Katya Adler takes a road trip to find out how Germans will remember their chancellor.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58657354?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58657354</guid>
+            <pubDate>Wed, 22 Sep 2021 23:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German elections 2021: Simple guide to vote ending Merkel era]]></title>
+            <description><![CDATA[Germans are choosing a new government on Sunday. This is how the vote works.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58311108?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58311108</guid>
+            <pubDate>Sat, 25 Sep 2021 05:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angela Merkel: A career in pictures]]></title>
+            <description><![CDATA[As Angela Merkel steps down as German chancellor, we take a look back at the photos documenting her career.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-46022660?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-46022660</guid>
+            <pubDate>Fri, 24 Sep 2021 15:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German election: Who could succeed Angela Merkel as chancellor?]]></title>
+            <description><![CDATA[A lacklustre lead candidate and a surprisingly strong Social Democrat have blown the race wide open.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56821462?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-56821462</guid>
+            <pubDate>Fri, 24 Sep 2021 08:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German elections 2021: 'Bazooka man' Olaf Scholz bidding for chancellor]]></title>
+            <description><![CDATA[The centre-left finance minister has led the polls in the run-up to the vote to succeed Angela Merkel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53735728?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-53735728</guid>
+            <pubDate>Tue, 21 Sep 2021 19:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German elections: How Angela Merkel changed her country]]></title>
+            <description><![CDATA[Young people have never known another leader, and many worry for the future as old certainties shift.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58597504?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58597504</guid>
+            <pubDate>Sat, 18 Sep 2021 00:52:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
